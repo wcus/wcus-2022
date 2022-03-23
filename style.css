@@ -51,19 +51,20 @@ p {
 	font-size: 18px;
 }
 
-.site-header {
+#masthead.site-header {
 	padding-top: 1rem;
 	padding-bottom: 1rem;
+	align-items: center;
 }
 
 @media only screen and (min-width: 482px) {
-	.site-header {
+	#masthead.site-header {
 		padding-top: 1rem;
 	}
 }
 
 @media only screen and (min-width: 822px) {
-	.site-header {
+	#masthead.site-header {
 		padding-top: 1rem;
 	}
 }
