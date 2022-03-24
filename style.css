@@ -236,3 +236,7 @@ article .entry-content iframe[style] {
 	margin: 0 auto !important;
 	overflow: visible;
 }
+=======
+:root {
+	--white: #FFFCFC;
+}
