@@ -230,15 +230,6 @@ article {
 	opacity: 1;/* Firefox */
 }
 
-.jetpack_subscription_widget {
-	border: 2px solid #FFFCFC;
-}
-
-.jetpack_subscription_widget input#subscribe-field-1 {
-	border: none;
-	line-height: 0;
-}
-
 .wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline {
 	width: 400px;
 	max-width: 40vw !important;
@@ -371,7 +362,7 @@ body.home .pagination {
 	border: 2px solid #FFFCFC;
 }
 
-.jetpack_subscription_widget input#subscribe-field-1 {
+.jetpack_subscription_widget input {
 	border: none;
 	line-height: 0;
 }
