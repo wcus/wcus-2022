@@ -376,6 +376,10 @@ body.home .pagination {
 	line-height: 0;
 }
 
+.entry-content .jetpack_subscription_widget {
+	border-color: #171716;
+}
+
 .wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline {
 	width: 400px;
 	max-width: 40vw !important;
